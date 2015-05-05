@@ -12,7 +12,7 @@ QuickStart:
     
 Credits:
     
-    @munjeni: Kernel, porting Android Kitkat to Xperia 2012 devices and bugfix
+    @munjeni: Kernel, porting Android to Xperia 2012 devices and bugfix
     @AOSX: Port Android Open Source Project to Xperia 2012
-    @XperiaSTE: Update and maintain CyanogenMod 11 for Xperia 2012
-    
+    @XperiaSTE: Update and maintain for Xperia 2012
+    @OptiPop: team for Opti sources
