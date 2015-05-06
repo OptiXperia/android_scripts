@@ -33,7 +33,7 @@
   <project path="frameworks/av" name="OptiXperia/frameworks_av" remote="gh" revision="opti-5.1"/>
   <project path="frameworks/base" name="OptiXperia/frameworks_base" remote="gh" revision="opti-5.1"/>
   <project path="frameworks/native" name="OptiXperia/frameworks_native" remote="gh" revision="opti-5.1"/>
-  <project path="hardware/libhardware" name="OptiXperia/hardware_libhardware" remote="gh" revision="lp5.1"/>
+  <project path="hardware/libhardware" name="OptiXperia/hardware_libhardware" remote="gh" revision="opti-5.1"/>
   <project path="hardware/ste-sony" name="XperiaSTE/android_hardware_ste-sony" remote="gh" revision="cm-12.1"/>
   <project path="kernel/sony/u8500" name="XperiaSTE/android_kernel_sony_u8500" remote="gh" revision="cm-12.1"/>
   <project path="system/core" name="OptiXperia/system_core" remote="gh" revision="opti-5.1"/>
