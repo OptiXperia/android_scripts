@@ -12,6 +12,7 @@
   <remove-project name="OptiPop/bionic" />
   <remove-project name="OptiPop/build" />
   <remove-project name="OptiPop/bootable_recovery" />
+  <remove-project name="platform/external/bluetooth/bluedroid" />
   <remove-project name="platform/external/wpa_supplicant_8" />
   <remove-project name="platform/external/icu" />
   <remove-project name="OptiPop/frameworks_av" />
